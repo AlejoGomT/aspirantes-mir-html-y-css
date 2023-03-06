@@ -1,0 +1,19 @@
+h1{
+    color: #00e600;
+    outline: auto;
+}
+
+.ingredientes{
+    color: #00e600;
+    text-decoration: underline;
+}
+
+#preparacion{
+    color: #00e600;
+    text-decoration: overline;
+}
+
+img{
+    animation: alternate-reverse;
+    background-color: aqua;
+}
