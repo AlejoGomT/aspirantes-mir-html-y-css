@@ -1,6 +1,7 @@
 h1{
     color: #00e600;
     outline: auto;
+    text-align: center;
 }
 
 .ingredientes{
@@ -14,6 +15,9 @@ h1{
 }
 
 img{
-    animation: alternate-reverse;
     background-color: aqua;
+}
+
+body{
+    background-color: #c6ffb3;
 }
