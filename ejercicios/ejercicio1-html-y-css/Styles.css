@@ -1,0 +1,33 @@
+form{
+    background: linear-gradient(#8dbd09,#1ddd3d);
+    margin: 0 auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 15px gray;
+    color: white;
+}
+
+#email, #password, #genero{
+    width: 100%;
+}
+
+#ingresar{
+    text-align: right;
+}
+
+#boton{
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+div{
+    padding: 7px;
+}
+
+@media (max-width: 500px) {
+    form{
+        width: 100%;
+    }
+}
